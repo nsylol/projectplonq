@@ -175,3 +175,67 @@ img {
 .section-first__links svg {
   margin-left: 14px;
 }
+
+.section-second {
+  padding-top: 216px;
+  padding-bottom: 115px;
+}
+
+.section-second__block {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.section-second__content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 230px;
+}
+
+.section-second__logo {
+  margin-bottom: 61px;
+}
+
+.section-second__title {
+  display: block;
+  font-family: 'Gotham Pro Light', sans-serif;
+  font-weight: 300;
+  font-size: 2rem;
+  line-height: 44px;
+  margin-bottom: 68px;
+  min-width: 390px;
+  color: #000;
+}
+
+.section-second__links {
+  display: flex;
+  align-items: center;
+}
+
+.section-second__link {
+  color: #000;
+  font-family: 'Gotham Pro Regular', sans-serif;
+  font-weight: 400;
+  font-size: 0.9375rem;
+  line-height: 21px;
+  margin-right: 100px;
+}
+
+.section-second__link svg {
+  margin-left: 15px;
+}
+
+.section-second__links p {
+  font-family: 'Gotham Pro Light';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.9375rem;
+  line-height: 21px;
+  color: #C8BB93;
+}
+
+.section-second__img {
+  margin-left: 55px;
+}
